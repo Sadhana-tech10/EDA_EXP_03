@@ -324,6 +324,10 @@ spread.to_csv("measures_of_spread.csv")
 print("All analysis results saved successfully!")
 ```
 **Output**
+# Q1. Load the dataset and perform preprocessing
+
+<img width="872" height="936" alt="image" src="https://github.com/user-attachments/assets/a392e64a-bdbd-4bdf-99c1-14c340c41be6" />
+
 
 **Interpretation**
 
