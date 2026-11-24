@@ -328,6 +328,36 @@ print("All analysis results saved successfully!")
 
 <img width="872" height="936" alt="image" src="https://github.com/user-attachments/assets/a392e64a-bdbd-4bdf-99c1-14c340c41be6" />
 
+# Q2. Distribution analysis using histograms
+
+<img width="1195" height="858" alt="image" src="https://github.com/user-attachments/assets/ad0c2f2e-3015-4587-be4e-20a2b9f6e496" />
+# Q3. Calculate numerical summary
+
+<img width="707" height="172" alt="image" src="https://github.com/user-attachments/assets/5ebdbd60-8be2-4f08-a650-bdbfbc753e4b" />
+
+# Q4. Calculate measures of spread
+
+<img width="565" height="292" alt="image" src="https://github.com/user-attachments/assets/9be0c05c-2396-4a78-a03c-fbc7edda66e9" />
+
+# Q5. Construct box plots and detect outliers using IQR
+
+<img width="1122" height="648" alt="image" src="https://github.com/user-attachments/assets/a5044283-2952-4dc7-b22b-ca35537ff160" />
+
+<img width="672" height="706" alt="image" src="https://github.com/user-attachments/assets/354fa4ef-01bf-4383-a7ce-956454e98d5e" />
+
+# Q6. Perform Min-Max scaling
+
+<img width="537" height="308" alt="image" src="https://github.com/user-attachments/assets/fcd17d50-aa03-42ee-b3a1-90441b27b219" />
+
+# Q7. Perform Z-score standardization using StandardScaler
+
+<img width="752" height="666" alt="image" src="https://github.com/user-attachments/assets/727dcffe-93ea-4987-b4e1-eb34bbfaff0e" />
+
+# Q8. Calculate Gini coefficient
+
+<img width="417" height="148" alt="image" src="https://github.com/user-attachments/assets/d104540f-ab8a-498a-9545-ed90991a24f4" />
+
+<img width="568" height="263" alt="image" src="https://github.com/user-attachments/assets/cea4a1ac-99c3-45b3-b83e-26f226c6fe4c" />
 
 **Interpretation**
 
