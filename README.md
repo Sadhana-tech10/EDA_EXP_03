@@ -331,6 +331,7 @@ print("All analysis results saved successfully!")
 # Q2. Distribution analysis using histograms
 
 <img width="1195" height="858" alt="image" src="https://github.com/user-attachments/assets/ad0c2f2e-3015-4587-be4e-20a2b9f6e496" />
+
 # Q3. Calculate numerical summary
 
 <img width="707" height="172" alt="image" src="https://github.com/user-attachments/assets/5ebdbd60-8be2-4f08-a650-bdbfbc753e4b" />
