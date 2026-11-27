@@ -362,9 +362,21 @@ print("All analysis results saved successfully!")
 
 **Interpretation**
 
-1)PM2.5 and NO₂ show a strong positive correlation, suggesting that both pollutants increase together, likely due to vehicle and industrial emissions.
+1. PM2.5 and NO₂ Correlation: PM2.5 and NO₂ show a strong positive correlation, suggesting that both pollutants may increase together due to common sources such as vehicle emissions and industrial activities.
 
-2)  # write other insights
+2. Pollutant Distribution: The histograms show the distribution of PM2.5, PM10, NO₂, and Ozone. Some pollutants may have a right-skewed distribution, indicating that a few observations have higher concentration values.
+
+3. Central Tendency: The mean and median values help identify the average and middle concentration of each pollutant. A large difference between them indicates a skewed distribution.
+
+4. Measures of Spread: Standard deviation and variance show how much pollutant concentrations vary. Higher values indicate greater variation in air pollution levels.
+
+5. Outlier Detection: Box plots and the IQR method identify unusually high or low pollutant concentrations. These outliers may indicate pollution peaks caused by traffic, industrial activities, or environmental conditions.
+
+6. Min-Max Scaling: The pollutant values are converted into a range between 0 and 1. This makes it easier to compare pollutants with different concentration ranges.
+
+7. Z-Score Standardization: Standardization converts pollutant values into a common scale with a mean close to 0 and a standard deviation close to 1.
+
+8. Gini Coefficient: The Gini coefficient measures the inequality in pollutant concentration values. A higher value indicates that pollution levels are more unevenly distributed across observations.
 
 **Result**
 
